@@ -1,5 +1,5 @@
 ---
-title: "Example"
+title: "Example page"
 author: "agrou"
 date: "16 November 2017"
 output: html_document
@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Here is an [example](example/lisbon2.jpg)
+Here is an [example](../example/lisbon2.jpg)
 
 ## R Markdown
 
